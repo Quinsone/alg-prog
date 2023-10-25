@@ -11,7 +11,7 @@
 | [3. Частное](./contest_01/03/main.cpp) | ![](./img/cpp.png) |
 | [4. Произведение](./contest_01/04/main.go) | ![](./img/go.png) |
 | [5. Индекс массы тела](./contest_01/05/main.cpp) | ![](./img/cpp.png) |
-| [6. Банкомат](./contest_01/06/main.cpp) | ![](./img/go.png) |
+| [6. Банкомат](./contest_01/06/main.go) | ![](./img/go.png) |
 | [7. Максимум из двух чисел](./contest_01/07/main.go) |  ![](./img/cpp.png) |
 | [8. Максимум из трех чисел](./contest_01/08/main.cpp) | ![](./img/go.png) |
 | [9. Длина гипотенузы](./contest_01/09/main.cpp) | ![](./img/cpp.png) |
